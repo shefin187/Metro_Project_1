@@ -1,0 +1,37 @@
+[
+    {
+        "station": "Aluva",
+        "crowd_level": "high",
+        "count": 11,
+        "wait_time": "10-15 minutes",
+        "timestamp": "2025-02-27 14:16:31"
+    },
+    {
+        "station": "Edappally",
+        "crowd_level": "high",
+        "count": 12,
+        "wait_time": "10-15 minutes",
+        "timestamp": "2025-02-27 14:16:31"
+    },
+    {
+        "station": "MG Road",
+        "crowd_level": "medium",
+        "count": 4,
+        "wait_time": "5-10 minutes",
+        "timestamp": "2025-02-27 14:16:31"
+    },
+    {
+        "station": "Kalamassery",
+        "crowd_level": "low",
+        "count": 1,
+        "wait_time": "2-5 minutes",
+        "timestamp": "2025-02-27 14:16:31"
+    },
+    {
+        "station": "Lissie",
+        "crowd_level": "high",
+        "count": 14,
+        "wait_time": "10-15 minutes",
+        "timestamp": "2025-02-27 14:16:32"
+    }
+]
